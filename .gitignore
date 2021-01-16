@@ -1,5 +1,6 @@
-#Adding config.py file
+#Adding config.py and gmaps_config.py file
 config.py
+gmaps_config.py
 
 #Adding addition files
 API_practice.ipynb
